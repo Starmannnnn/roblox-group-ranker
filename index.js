@@ -1,0 +1,1 @@
+// placeholder for bot index script
